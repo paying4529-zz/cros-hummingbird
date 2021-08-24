@@ -32,8 +32,5 @@ t_BUF | bus free time between a STOP and START condition
 ## Instructions
 1. Install this extension by clicking "Install"
 2. Add a measurement by clicking on the "Timing Markers & Measurements" on the right, then the Measurements "+" icon.
-
-	![Adding a Measurement](figures/add_measurement.png)
-
 3. Drag the measurement selection window over your recorded data.
 4. Both SDA and SCL data should be captured (both order would be fine) to check all SPEC limitation.
